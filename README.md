@@ -1,4 +1,3 @@
-# Mapping-Noisy-Training-Data-to-Ideal-Functions
 # Mapping Noisy Training Data to Ideal Functions
 
 A Python-based solution that:
